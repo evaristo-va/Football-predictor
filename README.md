@@ -57,5 +57,8 @@ RF | Draw | 0.50 |0.36 | 0.42 |
 RF | Away | 0.74 | 0.88 | 0.80 |
 RF |Home | 0.76 | 0.76 | 0.77 |### XGBoost
 
-Logistic Regression and Random Forests both perform similarly in terms of accuracy (70%), but Random Forests generally have a better balance across the "Home" and "Away" classes.
-XGBoost, despite having a good performance for "Away" and "Home," performs poorly for "Draw," which results in a significantly lower F1-score and overall performance. We can observe that overall Random Forests seems to be the most well-rounded model across all classes (with decent precision, recall, and F1-score for all three categories).
+### Conclusions
+
+- Logistic Regression and Random Forests both perform similarly in terms of accuracy (70%), but Random Forests generally have a better balance across the "Home" and "Away" classes.
+- XGBoost, despite having a good performance for "Away" and "Home," performs poorly for "Draw," which results in a significantly lower F1-score and overall performance.
+- Overall Random Forests seems to be the most well-rounded model across all classes (with decent precision, recall, and F1-score for all three categories).
