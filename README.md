@@ -1,4 +1,6 @@
-# Football predictor 
+# LaLiga SoccerSage
+![laliga](https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4)
+
 ### Introduction
 This project aims to predict the outcome of La liga matches using only pre-game information. 
 ### Data introduction and initial preparation
