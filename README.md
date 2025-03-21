@@ -1,9 +1,9 @@
 # LaLiga SoccerSage
 ![laliga](https://github.com/user-attachments/assets/a5262f50-da17-4200-b74c-098e2aadeae4)
 
-### Introduction
+### 📖 Introduction
 This project aims to predict the outcome of La liga matches using only pre-game information. 
-### Data introduction and initial preparation
+### 🛠️ Data introduction and initial preparation
 Our dataset encompasses match outcomes for every La Liga game from the 1995-1996 season to the 2023-2024 season, up to Matchday 8, and it also includes half-time scores.
 Columns:
 - Season [str]
@@ -18,7 +18,7 @@ Columns:
 
 Our objective is to predict the outcome of the matches using only pre-game information. This is a multi-class classification problem with three classes: Home team wins, draw or home team loses
 
-### EDA and feature selection
+### 📊 EDA and feature selection
 We compute the cumulative goal difference of the teams on that season prior to each game as well as the position in the league of each team. The features we will add to our model are:
 - Home team name
 - Away team name
@@ -32,7 +32,7 @@ Our target variable is the full time result. If we plot the distributions of the
 
 ![output](https://github.com/user-attachments/assets/ae65a67b-38ea-4478-9a89-45f8cea6cffd)
 
-### Model selection and training
+### 🔧 Model selection and training
 We will need to make a stratified train-test split to fix class imbalance but also the split should repsect the time ordering of the seasons. 
 
 We will try three models:
@@ -64,7 +64,7 @@ RF |Home | 0.76 | 0.76 | 0.77 |### XGBoost
 We assesed our model performance comparing agains random guessing and implied probabilities derived from betting odds sourced from [OddsPortal.](https://www.oddsportal.com/). Our model outperformed random guessing by 127% and bookmaker implied probabilities by 24%
 
 
-### Conclusions
+### ✅ Conclusions
 
 - Logistic Regression and Random Forests both perform similarly in terms of accuracy (70%), but Random Forests generally have a better balance across the "Home" and "Away" classes.
 - XGBoost, despite having a good performance for "Away" and "Home," performs poorly for "Draw," which results in a significantly lower F1-score and overall performance.
