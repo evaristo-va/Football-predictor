@@ -1,0 +1,380 @@
+date,team1,team2,1,X,2
+2024-05-26,Sevilla,Barcelona,+338,+320,-141
+2024-05-26,Celta Vigo,Valencia,-109,+261,+287
+2024-05-26,Las Palmas,Alaves,+133,+246,+200
+2024-05-26,Getafe,Mallorca,+129,+220,+229
+2024-05-25,Real Madrid,Betis,-435,+599,+1002
+2024-05-25,Almeria,Cadiz CF,+110,+273,+224
+2024-05-25,Rayo Vallecano,Ath Bilbao,+218,+223,+136
+2024-05-25,Real Sociedad,Atl. Madrid,+163,+234,+170
+2024-05-25,Osasuna,Villarreal,+156,+272,+154
+2024-05-24,Girona,Granada CF,-476,+613,+1063
+2024-05-19,Ath Bilbao,Sevilla,-172,+316,+472
+2024-05-19,Atl. Madrid,Osasuna,-312,+434,+872
+2024-05-19,Barcelona,Rayo Vallecano,-312,+463,+774
+2024-05-19,Betis,Real Sociedad,+222,+202,+149
+2024-05-19,Cadiz CF,Las Palmas,-111,+240,+341
+2024-05-19,Granada CF,Celta Vigo,+263,+240,+112
+2024-05-19,Mallorca,Almeria,-238,+342,+793
+2024-05-19,Valencia,Girona,+274,+273,-106
+2024-05-19,Villarreal,Real Madrid,+208,+294,+114
+2024-05-18,Alaves,Getafe,-101,+231,+320
+2024-05-16,Real Sociedad,Valencia,-204,+313,+636
+2024-05-16,Almeria,Barcelona,+598,+425,-250
+2024-05-16,Las Palmas,Betis,+229,+231,+129
+2024-05-15,Celta Vigo,Ath Bilbao,+139,+231,+210
+2024-05-15,Getafe,Atl. Madrid,+400,+267,-132
+2024-05-15,Rayo Vallecano,Granada CF,-179,+300,+558
+2024-05-15,Sevilla,Cadiz CF,+108,+243,+267
+2024-05-14,Girona,Villarreal,-141,+346,+328
+2024-05-14,Real Madrid,Alaves,-455,+594,+1161
+2024-05-14,Osasuna,Mallorca,+173,+189,+196
+2024-05-13,Barcelona,Real Sociedad,-139,+287,+388
+2024-05-12,Betis,Almeria,-263,+413,+650
+2024-05-12,Valencia,Rayo Vallecano,+125,+209,+256
+2024-05-12,Atl. Madrid,Celta Vigo,-250,+383,+677
+2024-05-12,Cadiz CF,Girona,+110,+219,+285
+2024-05-11,Ath Bilbao,Osasuna,-244,+355,+748
+2024-05-11,Granada CF,Real Madrid,+455,+349,-182
+2024-05-11,Villarreal,Sevilla,+100,+279,+252
+2024-05-11,Mallorca,Las Palmas,-154,+252,+537
+2024-05-10,Alaves,Getafe,+212,+256,+125
+2024-05-05,Rayo Vallecano,Almeria,-154,+285,+451
+2024-05-05,Sevilla,Granada CF,-145,+291,+388
+2024-05-05,Valencia,Alaves,+123,+206,+267
+2024-05-05,Celta Vigo,Villarreal,+167,+259,+154
+2024-05-05,Osasuna,Betis,+229,+222,+129
+2024-05-04,Mallorca,Atl. Madrid,+288,+204,+117
+2024-05-04,Girona,Barcelona,+183,+277,+134
+2024-05-04,Real Madrid,Cadiz CF,-286,+392,+828
+2024-05-04,Real Sociedad,Las Palmas,-312,+401,+953
+2024-05-03,Getafe,Ath Bilbao,+280,+214,+114
+2024-04-29,Barcelona,Valencia,-312,+451,+761
+2024-04-28,Betis,Sevilla,-102,+240,+292
+2024-04-28,Villarreal,Rayo Vallecano,-128,+272,+358
+2024-04-28,Granada CF,Osasuna,+139,+204,+229
+2024-04-28,Cadiz CF,Mallorca,+177,+179,+200
+2024-04-27,Atl. Madrid,Ath Bilbao,-105,+242,+309
+2024-04-27,Alaves,Celta Vigo,+162,+209,+188
+2024-04-27,Almeria,Getafe,+158,+224,+185
+2024-04-27,Las Palmas,Girona,+396,+305,-152
+2024-04-26,Real Sociedad,Real Madrid,+135,+216,+220
+2024-04-22,Sevilla,Mallorca,+108,+206,+300
+2024-04-21,Real Madrid,Barcelona,-133,+321,+322
+2024-04-21,Alaves,Atl. Madrid,+379,+247,-123
+2024-04-21,Almeria,Villarreal,+243,+293,-103
+2024-04-21,Getafe,Real Sociedad,+274,+204,+121
+2024-04-20,Girona,Cadiz CF,-256,+380,+691
+2024-04-20,Valencia,Betis,+172,+206,+184
+2024-04-20,Rayo Vallecano,Osasuna,+110,+204,+305
+2024-04-20,Celta Vigo,Las Palmas,-149,+285,+423
+2024-04-19,Ath Bilbao,Granada CF,-345,+450,+976
+2024-04-15,Osasuna,Valencia,+138,+199,+238
+2024-04-14,Real Sociedad,Almeria,-333,+433,+991
+2024-04-14,Ath Bilbao,Villarreal,-169,+312,+437
+2024-04-14,Granada CF,Alaves,+172,+204,+183
+2024-04-14,Las Palmas,Sevilla,+175,+223,+165
+2024-04-13,Cadiz CF,Barcelona,+261,+243,+106
+2024-04-13,Mallorca,Real Madrid,+404,+257,-133
+2024-04-13,Rayo Vallecano,Getafe,+141,+198,+231
+2024-04-13,Atl. Madrid,Girona,-112,+277,+287
+2024-04-12,Betis,Celta Vigo,-109,+254,+307
+2024-04-04,Granada CF,Valencia,+206,+206,+148
+2024-04-01,Villarreal,Atl. Madrid,+227,+261,+112
+2024-03-31,Real Madrid,Ath Bilbao,-172,+320,+476
+2024-03-31,Alaves,Real Sociedad,+294,+196,+118
+2024-03-31,Getafe,Barcelona,-141,+301,+363
+2024-03-31,Celta Vigo,Rayo Vallecano,-110,+249,+323
+2024-03-30,Barcelona,Las Palmas,-385,+533,+933
+2024-03-30,Valencia,Mallorca,+112,+196,+305
+2024-03-30,Almeria,Osasuna,+150,+220,+197
+2024-03-30,Getafe,Sevilla,+163,+200,+200
+2024-03-29,Cadiz CF,Granada CF,-110,+220,+378
+2024-03-17,Atl. Madrid,Barcelona,+122,+256,+215
+2024-03-17,Rayo Vallecano,Betis,+154,+206,+204
+2024-03-17,Las Palmas,Almeria,-130,+282,+346
+2024-03-17,Villarreal,Valencia,+119,+236,+234
+2024-03-17,Sevilla,Celta Vigo,-104,+250,+292
+2024-03-16,Ath Bilbao,Alaves,-169,+274,+539
+2024-03-16,Getafe,Girona,+259,+241,+108
+2024-03-16,Osasuna,Real Madrid,+586,+340,-208
+2024-03-16,Mallorca,Granada CF,-122,+231,+399
+2024-03-15,Real Sociedad,Cadiz,+233,+317,+828
+2024-03-11,Almeria,Sevilla,+240,+231,+118
+2024-03-10,Betis,Valencia,+112,+254,+234
+2024-03-10,Real Madrid,Celta Vigo,+323,+465,+819
+2024-03-10,Las Palmas,Ath Bilbao,+365,+252,+120
+2024-03-10,Alaves,Rayo Vallecano,+110,+206,+301
+2024-03-09,Girona,Osasuna,+185,+338,+480
+2024-03-09,Granada,Real Sociedad,+358,+231,+112
+2024-03-09,Cadiz,Atl. Madrid,+368,+265,+132
+2024-03-09,Valladolid,Getafe,+111,+220,+383
+2024-03-08,Barcelona,Mallorca,+227,+357,+618
+2024-03-04,Osasuna,Alaves,+136,+204,+237
+2024-03-03,Ath Bilbao,Barcelona,+217,+252,+124
+2024-03-03,Mallorca,Girona,+250,+225,+118
+2024-03-03,Atl. Madrid,Betis,+192,+329,+520
+2024-03-03,Villarreal,Granada,+137,+291,+362
+2024-03-02,Valencia,Real Madrid,+454,+292,+159
+2024-03-02,Getafe,Las Palmas,+102,+222,+301
+2024-03-02,Rayo Vallecano,Cadiz,+132,+237,+433
+2024-03-02,Sevilla,Real Sociedad,+170,+191,+195
+2024-03-01,Celta Vigo,Almeria,+123,+273,+340
+2024-02-26,Girona,Rayo Vallecano,+161,+305,+423
+2024-02-25,Real Madrid,Sevilla,+370,+488,+900
+2024-02-25,Las Palmas,Osasuna,+142,+200,+225
+2024-02-25,Betis,Ath Bilbao,+272,+227,+108
+2024-02-25,Cadiz,Celta Vigo,+220,+198,+148
+2024-02-24,Almeria,Atl. Madrid,+394,+288,+143
+2024-02-24,Alaves,Mallorca,+112,+204,+408
+2024-02-24,Barcelona,Getafe,+250,+392,+625
+2024-02-23,Real Sociedad,Villarreal,+164,+291,+441
+2024-02-19,Ath Bilbao,Girona,+118,+261,+321
+2024-02-18,Betis,Alaves,+133,+213,+229
+2024-02-18,Mallorca,Real Madrid,+275,+175,+135
+2024-02-18,Granada,Almeria,+119,+237,+233
+2024-02-18,Rayo Vallecano,Real Madrid,+417,+292,+154
+2024-02-17,Valencia,Sevilla,+125,+218,+243
+2024-02-17,Celta Vigo,Barcelona,+278,+273,+109
+2024-02-17,Osasuna,Cadiz,+128,+231,+424
+2024-02-17,Atl. Madrid,Las Palmas,+227,+338,+625
+2024-02-16,Villarreal,Getafe,+100,+257,+258
+2024-02-12,Almeria,Ath Bilbao,+351,+261,+125
+2024-02-11,Barcelona,Granada,+588,+671,+1268
+2024-02-11,Sevilla,Atl. Madrid,+260,+254,+102
+2024-02-11,Mallorca,Rayo Vallecano,+142,+179,+250
+2024-02-11,Getafe,Celta Vigo,+117,+206,+272
+2024-02-10,Las Palmas,Valencia,+156,+198,+209
+2024-02-10,Real Madrid,Girona,+244,+420,+541
+2024-02-10,Real Sociedad,Osasuna,+135,+225,+475
+2024-02-10,Alaves,Villarreal,+117,+244,+233
+2024-02-09,Cadiz,Betis,+200,+195,+162
+2024-02-05,Rayo Vallecano,Sevilla,+112,+225,+266
+2024-02-04,Real Madrid,Atl. Madrid,+147,+307,+366
+2024-02-04,Betis,Getafe,+100,+225,+313
+2024-02-04,Osasuna,Celta Vigo,+116,+206,+277
+2024-02-04,Villarreal,Cadiz,+169,+307,+457
+2024-02-03,Girona,Real Sociedad,+102,+242,+272
+2024-02-03,Alaves,Barcelona,+313,+260,+114
+2024-02-03,Granada,Las Palmas,+117,+227,+249
+2024-02-03,Valencia,Almeria,+145,+278,+409
+2024-02-02,Ath Bilbao,Mallorca,+204,+286,+656
+2024-02-01,Getafe,Real Madrid,+532,+286,+175
+2024-01-31,Atl. Madrid,Rayo Vallecano,+172,+286,+491
+2024-01-31,Barcelona,Osasuna,+303,+434,+757
+2024-01-29,Getafe,Granada,+122,+241,+371
+2024-01-28,Atl. Madrid,Valencia,+179,+301,+517
+2024-01-28,Sevilla,Osasuna,+110,+215,+288
+2024-01-28,Cadiz,Ath Bilbao,+383,+231,+120
+2024-01-28,Celta Vigo,Girona,+170,+250,+150
+2024-01-27,Mallorca,Betis,+124,+214,+250
+2024-01-27,Barcelona,Villarreal,+278,+466,+622
+2024-01-27,Las Palmas,Real Madrid,+586,+379,+233
+2024-01-27,Real Sociedad,Rayo Vallecano,+128,+223,+448
+2024-01-26,Almeria,Alaves,+175,+208,+173
+2024-01-22,Granada,Atl. Madrid,+401,+304,+156
+2024-01-21,Girona,Sevilla,+130,+296,+323
+2024-01-21,Betis,Barcelona,+294,+296,+122
+2024-01-21,Real Madrid,Almeria,+909,+865,+2000
+2024-01-21,Osasuna,Getafe,+139,+186,+256
+2024-01-20,Celta Vigo,Real Sociedad,+154,+189,+219
+2024-01-20,Valencia,Ath Bilbao,+243,+221,+123
+2024-01-20,Villarreal,Mallorca,+108,+240,+258
+2024-01-20,Rayo Vallecano,Las Palmas,+141,+258,+430
+2024-01-19,Alaves,Cadiz,+156,+256,+529
+2024-01-14,Cadiz,Valencia,+198,+186,+170
+2024-01-14,Almeria,Girona,+277,+280,+110
+2024-01-13,Betis,Granada,+143,+277,+411
+2024-01-13,Ath Bilbao,Real Sociedad,+108,+214,+291
+2024-01-13,Mallorca,Celta Vigo,+135,+197,+244
+2024-01-13,Las Palmas,Villarreal,+159,+242,+167
+2024-01-12,Sevilla,Alaves,+100,+225,+300
+2024-01-04,Las Palmas,Barcelona,+527,+359,+208
+2024-01-04,Sevilla,Ath Bilbao,+197,+221,+141
+2024-01-04,Osasuna,Almeria,+145,+277,+394
+2024-01-03,Girona,Atl. Madrid,+160,+265,+152
+2024-01-03,Celta Vigo,Betis,+120,+225,+240
+2024-01-03,Real Madrid,Mallorca,+476,+535,+1264
+2024-01-03,Granada,Cadiz,+123,+204,+261
+2024-01-02,Valencia,Villarreal,+117,+239,+237
+2024-01-02,Real Sociedad,Alaves,+200,+287,+657
+2024-01-02,Getafe,Rayo Vallecano,+136,+197,+241
+2023-12-23,Atl. Madrid,Sevilla,-179,+317,+469
+2023-12-21,Alaves,Real Madrid,+449,+303,-172
+2023-12-21,Mallorca,Osasuna,+121,+190,+281
+2023-12-21,Betis,Girona,+165,+250,+150
+2023-12-21,Cadiz CF,Real Sociedad,+463,+249,-147
+2023-12-20,Ath Bilbao,Las Palmas,-286,+399,+697
+2023-12-20,Villarreal,Celta Vigo,+129,+250,+194
+2023-12-20,Barcelona,Almeria,-769,+765,+1405
+2023-12-19,Atl. Madrid,Getafe,-233,+353,+637
+2023-12-19,Granada CF,Sevilla,+194,+221,+142
+2023-12-19,Rayo Vallecano,Valencia,+124,+217,+236
+2023-12-18,Girona,Alaves,-175,+305,+451
+2023-12-17,Real Madrid,Villarreal,-417,+556,+985
+2023-12-17,Las Palmas,Cadiz CF,-104,+229,+318
+2023-12-17,Real Sociedad,Betis,-172,+304,+468
+2023-12-17,Almeria,Mallorca,+142,+214,+218
+2023-12-16,Valencia,Barcelona,+455,+334,-182
+2023-12-16,Sevilla,Getafe,-130,+249,+392
+2023-12-16,Ath Bilbao,Atl. Madrid,+147,+235,+184
+2023-12-16,Celta Vigo,Granada CF,-152,+295,+413
+2023-12-15,Osasuna,Rayo Vallecano,+117,+219,+254
+2023-12-11,Rayo Vallecano,Celta Vigo,+159,+220,+183
+2023-12-10,Barcelona,Girona,-213,+397,+471
+2023-12-10,Cadiz CF,Osasuna,+179,+206,+168
+2023-12-10,Atl. Madrid,Almeria,-500,+598,+1148
+2023-12-09,Mallorca,Sevilla,+156,+202,+197
+2023-12-09,Villarreal,Real Sociedad,+225,+244,+119
+2023-12-09,Betis,Real Madrid,+347,+294,-137
+2023-12-09,Alaves,Las Palmas,+100,+219,+311
+2023-12-08,Getafe,Valencia,+158,+190,+208
+2023-12-04,Celta Vigo,Cadiz CF,-185,+304,+525
+2023-12-03,Barcelona,Atl. Madrid,-106,+280,+270
+2023-12-03,Sevilla,Villarreal,-104,+275,+261
+2023-12-03,Almeria,Betis,+245,+269,+102
+2023-12-03,Mallorca,Alaves,+156,+192,+210
+2023-12-02,Osasuna,Real Sociedad,+272,+216,+114
+2023-12-02,Real Madrid,Granada CF,-625,+685,+1360
+2023-12-02,Ath Bilbao,Rayo Vallecano,-227,+359,+608
+2023-12-02,Girona,Valencia,-152,+290,+409
+2023-12-01,Las Palmas,Getafe,+137,+191,+244
+2023-11-29,Mallorca,Cadiz CF,-115,+225,+373
+2023-11-27,Girona,Ath Bilbao,+120,+261,+211
+2023-11-26,Betis,Las Palmas,-147,+270,+436
+2023-11-26,Cadiz CF,Real Madrid,+573,+351,-217
+2023-11-26,Real Sociedad,Sevilla,-161,+281,+467
+2023-11-26,Villarreal,Osasuna,+117,+245,+234
+2023-11-25,Atl. Madrid,Mallorca,-286,+393,+797
+2023-11-25,Getafe,Almeria,-133,+262,+382
+2023-11-25,Valencia,Celta Vigo,+121,+231,+237
+2023-11-25,Rayo Vallecano,Barcelona,+394,+305,-152
+2023-11-24,Alaves,Granada CF,-143,+263,+413
+2023-11-12,Atl. Madrid,Villarreal,-303,+461,+738
+2023-11-12,Sevilla,Betis,+114,+250,+233
+2023-11-12,Barcelona,Alaves,-417,+530,+1011
+2023-11-11,Real Madrid,Valencia,-303,+441,+772
+2023-11-11,Granada CF,Getafe,+147,+211,+209
+2023-11-11,Osasuna,Las Palmas,-108,+225,+337
+2023-11-11,Almeria,Real Sociedad,+326,+271,-123
+2023-11-11,Rayo Vallecano,Girona,+196,+242,+137
+2023-11-10,Ath Bilbao,Celta Vigo,-149,+297,+386
+2023-11-06,Getafe,Cadiz CF,-101,+206,+338
+2023-11-05,Real Madrid,Rayo Vallecano,-476,+558,+1276
+2023-11-05,Villarreal,Ath Bilbao,+263,+277,-104
+2023-11-05,Valencia,Granada CF,-161,+303,+426
+2023-11-05,Alaves,Almeria,-133,+270,+376
+2023-11-04,Real Sociedad,Barcelona,+229,+234,+123
+2023-11-04,Celta Vigo,Sevilla,+137,+235,+202
+2023-11-04,Betis,Mallorca,-115,+237,+350
+2023-11-04,Osasuna,Girona,+185,+229,+150
+2023-11-03,Las Palmas,Atl. Madrid,+436,+269,-147
+2023-10-30,Granada CF,Villarreal,+195,+257,+133
+2023-10-29,Atl. Madrid,Alaves,-238,+351,+703
+2023-10-29,Ath Bilbao,Valencia,-164,+291,+482
+2023-10-29,Rayo Vallecano,Real Sociedad,+227,+215,+134
+2023-10-29,Betis,Osasuna,-103,+239,+304
+2023-10-28,Cadiz CF,Sevilla,+276,+234,+106
+2023-10-28,Mallorca,Getafe,+129,+197,+264
+2023-10-28,Barcelona,Real Madrid,+154,+252,+169
+2023-10-28,Almeria,Las Palmas,+129,+233,+218
+2023-10-27,Girona,Celta Vigo,-141,+301,+358
+2023-10-23,Valencia,Cadiz CF,-147,+259,+461
+2023-10-22,Barcelona,Ath Bilbao,-118,+275,+316
+2023-10-22,Villarreal,Alaves,+100,+241,+288
+2023-10-22,Girona,Almeria,-270,+407,+685
+2023-10-22,Las Palmas,Rayo Vallecano,+159,+202,+200
+2023-10-21,Celta Vigo,Atl. Madrid,+237,+247,+116
+2023-10-21,Sevilla,Real Madrid,+359,+303,-139
+2023-10-21,Getafe,Betis,+142,+209,+221
+2023-10-21,Real Sociedad,Mallorca,-164,+262,+557
+2023-10-20,Osasuna,Granada CF,-154,+290,+433
+2023-10-08,Granada CF,Barcelona,+587,+409,-244
+2023-10-08,Alaves,Betis,+148,+222,+195
+2023-10-08,Celta Vigo,Getafe,+100,+225,+312
+2023-10-08,Atl. Madrid,Real Sociedad,-102,+235,+312
+2023-10-08,Villarreal,Las Palmas,-159,+305,+426
+2023-10-07,Sevilla,Rayo Vallecano,-120,+267,+338
+2023-10-07,Mallorca,Valencia,+145,+196,+223
+2023-10-07,Real Madrid,Osasuna,-370,+509,+944
+2023-10-07,Cadiz CF,Girona,+222,+239,+124
+2023-10-06,Ath Bilbao,Almeria,-333,+458,+818
+2023-10-02,Las Palmas,Celta Vigo,+188,+214,+162
+2023-10-01,Atl. Madrid,Cadiz CF,-303,+426,+869
+2023-10-01,Betis,Valencia,+108,+225,+285
+2023-09-30,Alaves,Osasuna,+150,+202,+213
+2023-09-30,Almeria,Granada CF,-108,+274,+281
+2023-09-30,Real Sociedad,Ath Bilbao,+125,+208,+252
+2023-09-30,Girona,Real Madrid,+285,+295,-115
+2023-09-30,Rayo Vallecano,Mallorca,-101,+221,+322
+2023-09-29,Getafe,Villarreal,+175,+206,+175
+2023-09-29,Barcelona,Sevilla,-294,+445,+703
+2023-09-28,Osasuna,Atl. Madrid,+296,+242,-103
+2023-09-28,Celta Vigo,Alaves,-167,+279,+537
+2023-09-28,Granada CF,Betis,+175,+239,+156
+2023-09-27,Cadiz CF,Rayo Vallecano,+162,+206,+194
+2023-09-27,Valencia,Real Sociedad,+152,+200,+212
+2023-09-27,Ath Bilbao,Getafe,-196,+301,+605
+2023-09-27,Real Madrid,Las Palmas,-588,+670,+1470
+2023-09-27,Villarreal,Girona,+114,+265,+229
+2023-09-26,Mallorca,Barcelona,+600,+332,-213
+2023-09-26,Sevilla,Almeria,-149,+294,+399
+2023-09-24,Atl. Madrid,Real Madrid,+177,+227,+154
+2023-09-24,Betis,Cadiz CF,-130,+250,+368
+2023-09-24,Las Palmas,Granada CF,-109,+257,+285
+20023-09-24,Rayo Vallecano,Villarreal,+152,+240,+172
+2023-09-24,Real Sociedad,Getafe,-152,+235,+514
+2023-09-23,Almeria,Valencia,+171,+235,+156
+2023-09-23,Barcelona,Celta Vigo,-417,+505,+996
+2023-09-23,Osasuna,Sevilla,+134,+218,+216
+2023-09-23,Girona,Mallorca,-114,+225,+351
+2023-09-22,Alaves,Ath Bilbao,+305,+202,+104
+2023-09-18,Granada CF,Girona,+184,+244,+138
+2023-09-17,Real Madrid,Real Sociedad,-143,+271,+384
+2023-09-17,Sevilla,Las Palmas,-172,+297,+484
+2023-09-17,Villarreal,Almeria,-213,+375,+476
+2023-09-17,Getafe,Osasuna,+156,+181,+218
+2023-09-16,Barcelona,Betis,-345,+466,+778
+2023-09-16,Celta Vigo,Mallorca,+102,+208,+313
+2023-09-16,Valencia,Atl. Madrid,+238,+219,+121
+2023-09-16,Ath Bilbao,Cadiz CF,-179,+277,+534
+2023-09-15,Rayo Vallecano,Alaves,+100,+215,+309
+2023-09-03,Osasuna,Barcelona,+503,+330,-192
+2023-09-03,Mallorca,Ath Bilbao,+208,+195,+152
+2023-09-03,Girona,Las Palmas,-145,+277,+397
+2023-09-02,Betis,Rayo Vallecano,-101,+236,+285
+2023-09-02,Alaves,Valencia,+216,+187,+156
+2023-09-02,Real Madrid,Getafe,-312,+403,+903
+2023-09-02,Real Sociedad,Granada CF,-238,+349,+661
+2023-09-01,Almeria,Celta Vigo,+173,+229,+154
+2023-09-01,Cadiz CF,Villarreal,+215,+247,+121
+2023-08-28,Rayo Vallecano,Atl. Madrid,+289,+231,+100
+2023-08-28,Getafe,Alaves,+142,+167,+266
+2023-08-27,Ath Bilbao,Betis,-109,+241,+298
+2023-08-27,Valencia,Osasuna,-125,+236,+388
+2023-08-27,Villarreal,Barcelona,+239,+261,+106
+2023-08-26,Sevilla,Girona,-103,+248,+287
+2023-08-26,Granada CF,Mallorca,+166,+192,+193
+2023-08-26,Cadiz CF,Almeria,+119,+229,+238
+2023-08-25,Celta Vigo,Real Madrid,+341,+274,-130
+2023-08-25,Las Palmas,Real Sociedad,+328,+221,-105
+2023-08-21,Granada CF,Rayo Vallecano,+175,+204,+173
+2023-08-21,Alaves,Sevilla,+234,+199,+135
+2023-08-20,Betis,Atl. Madrid,+269,+241,+100
+2023-08-20,Barcelona,Cadiz CF,-435,+498,+1087
+2023-08-20,Girona,Getafe,-108,+214,+357
+2023-08-19,Osasuna,Ath Bilbao,+187,+194,+169
+2023-08-19,Almeria,Real Madrid,+590,+400,-250
+2023-08-19,Real Sociedad,Celta Vigo,-145,+240,+473
+2023-08-18,Valencia,Las Palmas,-175,+283,+511
+2023-08-18,Mallorca,Villarreal,+174,+213,+168
+2023-08-14,Atl. Madrid,Granada CF,-323,+444,+819
+2023-08-14,Cadiz CF,Alaves,+125,+193,+269
+2023-08-13,Getafe,Barcelona,+554,+293,-185
+2023-08-13,Villarreal,Betis,-137,+287,+350
+2023-08-13,Celta Vigo,Osasuna,+110,+217,+281
+2023-08-12,Ath Bilbao,Real Madrid,+223,+240,+121
+2023-08-12,Las Palmas,Mallorca,+154,+187,+219
+2023-08-12,Real Sociedad,Girona,-130,+257,+372
+2023-08-11,Sevilla,Valencia,-109,+235,+322
+2023-08-11,Almeria,Rayo Vallecano,+158,+216,+183
